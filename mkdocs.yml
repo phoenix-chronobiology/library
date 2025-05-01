@@ -58,7 +58,7 @@ theme:
 plugins:
   - blog:
       blog_dir: .
-      post_dir: "{blog}/articles"
+      posts_dir: "{blog}/articles"
   - exclude:
       glob:
         - "*.drawio"
