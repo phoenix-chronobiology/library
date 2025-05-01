@@ -1,8 +1,7 @@
-
-<figure markdown="span">
-    ![Idea Under Discussion](images/idea-color.png){ width="100" } 
-    <figcaption>Idea Under Discussion &mdash; Prototype Presented Here</figcaption>
-</figure>
+![Idea Under Discussion](images/idea-color.png){ width="100" } 
+/// caption
+Idea Under Discussion &mdash; Prototype Presented Here
+///
 
 !!! abstract "The Idea"
     The ***Library*** is an indexed collection of papers and slides about topics that are important to [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects](https://phoenix-chronobiology.github.io/). These include:

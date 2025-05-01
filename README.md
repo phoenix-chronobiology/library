@@ -65,6 +65,7 @@ Note that most articles/cards will link to local works, archived in `files`. How
 
 ### Markdown Frontmatter
 
+
 To index its articles, the library uses Materials for MkDocs built-in Blog plugin. The plugin uses markdown frontmatter to generate views of the articles. Views are pages that are automatically generated, i.e., the entry point to the catalog listing all latest articals, as well as archive and category pages that list all articles associated with them through metadata in chronological order.
 
 ```
