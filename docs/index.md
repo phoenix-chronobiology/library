@@ -9,6 +9,8 @@ Idea Under Discussion &mdash; Prototype Presented Here
     * Publications and research materials written by members of the project.
     * Reference materials used by the project.
 
-    For a design direction, see [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects &rarr; About &rarr; Library](https://phoenix-chronobiology.github.io/about/#library).
+    For a design direction, see [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects &rarr; About the site &rarr; Library](https://phoenix-chronobiology.github.io/about/#library). Note that additional templating is needed to encompass the content described in *About the site*.
 
     The articles listed here are placeholders, to illustrate the feature and to guide new authors.
+
+    Additional templating is needed to encompass the content described in 
