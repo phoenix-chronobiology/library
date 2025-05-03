@@ -4,6 +4,10 @@
     * Publications and research materials written by members of the project.
     * Reference materials used by the project.
 
+    !!! tip
+        The Phoenix Chronobiology Projects' original website resided at `www.phoenix.tc-ieee.org`. That site was retired when the host site was refactored. You can find older works from the legacy site at **[Hyde](https://phoenix-chronobiology.github.io/hyde/){: target="_blank" }**.
+
+
 !!! bug "Site Design Direction"
     ![Idea Under Discussion](images/idea-color.png){ width="100" } 
     /// caption
