@@ -19,7 +19,7 @@ The Halberg Chronobiology Center wants the monitor and analytic framework for lo
 
 ## This repository
 
-The **(Library)** is an indexed collection of papers and slides about topics that are important to [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects](https://phoenix-chronobiology.github.io/). These include:
+The **Library** is an indexed collection of papers and slides about topics that are important to [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects](https://phoenix-chronobiology.github.io/). These include:
 
 * Publications and research materials written by members of the project.
 * Reference materials used by the project.
@@ -56,16 +56,16 @@ docs/
 Note that most articles/cards will link to local works, archived in `files`. However, a card may contain a link into:
 
 * A GitHub repository of an individual project contributor;
-* [The GitHub repository for **Hyde**](https://github.com/phoenix-chronobiology/hyde){: target="_blank" }, the archive of The Phoenix Chronobiology Projects' legacy site; or
-* The home site of the project sponsor, the University of Minnesota's [Halberg Chronobiology Center, `https://halbergchronobiologycenter.umn.edu)`](https://halbergchronobiologycenter.umn.edu){: target="_blank" }.
+* [The GitHub repository for **Hyde**](https://github.com/phoenix-chronobiology/hyde/), the archive of The Phoenix Chronobiology Projects' legacy site; or
+* The home site of the project sponsor, the University of Minnesota's [Halberg Chronobiology Center, `https://halbergchronobiologycenter.umn.edu)`](https://halbergchronobiologycenter.umn.edu).
 
 ### Theme
 
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 
-### Markdown Frontmatter
+### Markdown Front-Mmatter
 
-To index its articles, the library uses Materials for MkDocs built-in Blog plugin. The plugin uses markdown frontmatter to generate views of the articles. Views are pages that are automatically generated, i.e., the entry point to the catalog listing all latest articals, as well as archive and category pages that list all articles associated with them through metadata in chronological order.
+To index its articles, the library uses [Material for MkDocs built-in Blog plugin](https://squidfunk.github.io/mkdocs-material/plugins/blog/). The plugin uses markdown front-matter to automatically generate views of the content in folder `articles`. The views are listed in generated website's left-hand navigation panel.
 
 ```
 ---
