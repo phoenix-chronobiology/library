@@ -24,6 +24,8 @@ The **Library** is an indexed collection of papers and slides about topics that 
 * Publications and research materials written by members of the project.
 * Reference materials used by the project.
 
+This repository is built as a subproject/subcomponent of [The&nbsp;Phoenix&nbsp;Chronobiology&nbsp;Projects](https://phoenix-chronobiology.github.io/) site.
+
 ### Static site generator
 
 **MkDocs** is a static site generator that is geared toward building project documentation. Source files are written primarily in [Markdown](https://www.markdownguide.org), and configured with a single YAML configuration file
